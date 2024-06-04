@@ -1,1 +1,2 @@
-Mozilla/5.0 (Linux; Android 11; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Mobile Safari/537.36
+[FBAN/FB4A;FBAV/333.0.0.30.119;FBBV/313672645;FBDM/{density=3.0,width=1080,height=2177};FBLC/ru_RU;FBRV/314845422;FBCR/Beeline;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A325F;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/208.0.0.38.104;FBBV/141745672;FBDM/{density=1.5,width=480,height=800};FBLC/en_US;FBRV/142867518;FBCR/O2-IRL;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G360F;FBSV/5.0.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]
